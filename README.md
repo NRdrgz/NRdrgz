@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there I'm Nico 👋
 
-<!--
-**NRdrgz/NRdrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Data | Team Leader & Manager | Genuinely Interested in Everything
 
-Here are some ideas to get you started:
+Welcome to my GitHub page! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=25% height=25%>
+
+
+
+### 🌍 Connect with Me
+- [LinkedIn](https://linkedin.com/in/nicolasrdrgz)
+- 📧 Email: nicolasrdrgz@protonmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about data and technology!
