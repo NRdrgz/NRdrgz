@@ -1,6 +1,6 @@
 # Hi there I'm Nico 👋
 
-## Full Stack Data | Team Leader & Manager | Genuinely Interested in Everything
+## Analytics Engineer | Data Scientist | Team Manager | Aerospace Engineer | Genuinely Interested in Everything
 
 Welcome to my GitHub page! 
 
