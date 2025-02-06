@@ -1,6 +1,7 @@
 # Hi there I'm Nico 👋
 
-## Analytics Engineer | Data Scientist | Team Manager | Aerospace Engineer | Genuinely Interested in Everything
+## Software Engineer | Data Engineer | Team Manager | Aerospace Engineer
+## Passionate about Data & Robotics
 
 Welcome to my GitHub page! 
 
