@@ -10,6 +10,6 @@
 
 ### 🌍 Connect with Me
 - [LinkedIn](https://linkedin.com/in/nicolasrdrgz)
-- 📧 Email: nicolasrodriguez01@pm.me
+- 📧 Email: nicolasrodriguez01dev@pm.me
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about technology!
