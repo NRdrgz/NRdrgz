@@ -9,6 +9,7 @@
 
 ### 🌍 Connect with Me
 - [LinkedIn](https://linkedin.com/in/nicolasrdrgz)
+- [Blog](https://nrdrgz.github.io/)
 - 📧 Email: nicolasrodriguez01dev@pm.me
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about technology!
