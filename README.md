@@ -40,10 +40,7 @@ I'm the CTO of **[Lucé Robotics](https://luce-robotics.com/)**, and today most 
 
 <p align="center">
   <a href="https://github.com/NRdrgz/Just1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NRdrgz&repo=Just1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/NRdrgz/DoublePendulumIsaacLab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NRdrgz&repo=DoublePendulumIsaacLab&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/NRdrgz/Cardputer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NRdrgz&repo=Cardputer&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/NRdrgz/SkyjoRL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NRdrgz&repo=SkyjoRL&theme=tokyonight&hide_border=true" /></a>
-</p>
+  <a href="https://github.com/NRdrgz/DoublePendulumIsaacLab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NRdrgz&repo=DoublePendulumIsaacLab&theme=tokyonight&hide_border=true" /></a></p>
 
 ### Contribution snake
 
