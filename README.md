@@ -27,6 +27,8 @@ I'm the CTO of **[Lucé Robotics](https://luce-robotics.com/)**, and today most 
 
 **We're hiring!** If you want to build robots with us, [get in touch](https://luce-robotics.com/).
 
+I also organize the **[Paris Hardware Meetup](https://luma.com/Paris-hardware-meetup?period=past)**, a community for people building physical products in Paris: designers, founders, engineers, investors. Everyone is welcome, come say hi at the next one!
+
 </td>
 <td width="40%" align="center">
 
